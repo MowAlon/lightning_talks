@@ -45,6 +45,7 @@
 * Ryan Asensio - Clojure
 * MB Burch - Sonic Pi
 * Justin Pease - Beginner object model class for foxtrotters
+* Alon Waisman and Matt Hecker - Module 1 Ruby Recap. Let's go over the material you worked on this week with a critical eye and brush up on anything that's left you uncomfortable.
 
 ### **Week of 12/14**
 
